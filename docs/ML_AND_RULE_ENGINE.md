@@ -42,10 +42,6 @@ The main preparation steps were:
 7. Separate records into training, validation, and test data.
 8. Keep validation and test records separate from training records.
 
-This time-based split helps avoid using future records when training the model.
-
-![Training and validation split](images/ml-training/01-train-validation-split.png)
-
 ---
 
 ## Anomaly Detection Model
